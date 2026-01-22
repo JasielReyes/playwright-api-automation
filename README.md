@@ -41,6 +41,7 @@ Se eligió esta API porque:
 ##  Estructura del Proyecto
 ## Project Structure
 
+```txt
 playwright-api-automation/
 ├── tests/
 │   ├── products.spec.ts            # Tests positivos
@@ -51,7 +52,6 @@ playwright-api-automation/
 │
 ├── playwright.config.ts
 ├── package.json
-├── tsconfig.json
 └── README.md
 
 

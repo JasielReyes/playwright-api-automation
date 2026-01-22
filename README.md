@@ -51,7 +51,9 @@ playwright-api-automation/
 │
 ├── playwright.config.ts
 ├── package.json
+├── tsconfig.json
 └── README.md
+
 
 ---
 
